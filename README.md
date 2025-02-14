@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning AI and Machine Learning
 - 💞️ I’m looking to collaborate on interesting data projects
-- 📫 How to reach me: kumarbarani32@gmail.com
+- 📫 How to reach me: nagarajanbaranikumar.com
 - 😄 Pronouns: Kumar
 - ⚡ Fun fact: I enjoy experimenting with new recipes in my spare time!
 
